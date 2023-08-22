@@ -1,0 +1,3 @@
+ELK stack consuming kafka producer data. Whole architecture build using docker containerization.
+Sample data generation happening using Faker class in faker module of python
+and that is feed to logstash service and then passed to elastic search at specific index.
